@@ -9,6 +9,6 @@
 	Nagoya
 	Kawaguchiko
 	Tokyo
-	Austria
-	Prague
-	
+        Nitra Slovakia
+	Vienna Austria
+	Prague Czech Republic	
